@@ -1,0 +1,9 @@
+{
+  "version": "1.2.3",
+  "releaseDate": "2022-01-01",
+  "changes": [
+    "Added new feature X",
+    "Improved performance",
+    "Fixed bug Y"
+  ]
+}
